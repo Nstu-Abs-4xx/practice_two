@@ -1,0 +1,3 @@
+/Users/stanislavklepikov/CLionProjects/cccc/cmake-build-debug/CMakeFiles/cccc.dir
+/Users/stanislavklepikov/CLionProjects/cccc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stanislavklepikov/CLionProjects/cccc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
